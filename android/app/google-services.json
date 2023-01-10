@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90723732678",
+    "project_id": "skymatch-30c69",
+    "storage_bucket": "skymatch-30c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90723732678:android:941b7076deb30c06629bc7",
+        "android_client_info": {
+          "package_name": "com.skymatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90723732678-r9fecldu1ctpb7g66v1es8q486sm68ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADyPwQ0lepgYoE6hnMvC4IXQZ6vjV7Xtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90723732678-r9fecldu1ctpb7g66v1es8q486sm68ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
